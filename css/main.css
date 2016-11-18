@@ -1,0 +1,86 @@
+/* Inserte su codigo aqui */
+*{
+	font-family:comic;
+}
+.hero{
+	background:#FFBF00;
+	height:600px;
+}
+.sumate{
+	height:40px;
+	width:100px;
+	border-radius:10%;
+	border:1px solid #FF8000;
+	background:orange;
+	color:white;
+	font-size:20px;
+	text-align:center;
+}
+.menu,.boton{
+	text-align:center;
+	margin:30px 0px;
+}
+.menu a{
+	color:white;
+	font-size:17px;
+	margin:0px 15px;
+}
+.labo{
+	color:white;
+	text-align:center;
+	margin:150px;
+}
+.seccion{
+	background:#D8D8D8;
+	padding:30px;
+}
+.box{
+	width:320px;
+	margin:0 15px;
+}
+.box1{
+	margin:0 260px;
+}
+.caja{
+	background:white;
+	width:320px;
+	height:360px;
+	padding:10px;
+
+}
+.ejemplo{
+	width:300px;
+	height:50px;
+}
+.ejemplo p{
+	color:#A4A4A4;
+}
+.ejemplo h2{
+	color:#6E6E6E;
+}
+
+.small_caja{
+	background:#BDBDBD;
+	height:200px;
+	width:200px;
+	text-align:center;
+	margin:0px auto;
+	padding-top:90px;
+	color:#6E6E6E;
+	font-size:20px;
+
+}
+.bot{
+	color:white;
+	background:#FACC2E;
+	margin:50px 100px;
+	border:1px solid #FACC2E;
+}
+footer{
+	background:#2E2E2E;
+	height:80px;
+	color:white;
+	font-size:15px;
+	padding:20px 150px;
+}
+
